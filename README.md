@@ -1,16 +1,21 @@
-# sensors
+# Bidyut Innovation Pvt Ltd
 
-智高提供的積木方塊。
-Blocks provided by Gigo。
+![Bidyut Innovation Logo](Untitled-2.png)
 
-## License
+## **🚀 Innovate, Inspire, Ignite – With Bidyut Innovation!**  
 
-* MIT
+### **About Us**  
+Bidyut Innovation Pvt Ltd is a leading technology-driven company providing superior-quality robotic components, certified for child safety. We offer tailor-made solutions aligned with school curricula, ensuring practical learning experiences.  
 
+### **🌟 Our Mission**  
+Empowering young minds through innovation, technology, and hands-on learning in robotics and AI.  
 
-## Supported targets
+### **📌 Connect With Us**  
+- 🌐 **Website:** www.bidyutinnovation.com  
+- 📧 **Email:** contact@bidyutrobotics.com  
+- 📍 **Location:** Indore, India  
 
 
 ```package
-sensors=github:gigotoys/gigo-block
+sensors=github:it5meyash/gigo-block
 ```
