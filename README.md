@@ -13,7 +13,7 @@ Empowering young minds through innovation, technology, and hands-on learning in 
 ### **📌 Connect With Us**  
 - 🌐 **Website:** www.bidyutinnovation.com  
 - 📧 **Email:** contact@bidyutrobotics.com  
-- 📍 **Location:** Indore, India  
+- 📍 **Location:** Indore, India
 
 
 ```package
