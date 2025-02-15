@@ -1,6 +1,6 @@
 # Bidyut Innovation Pvt Ltd
 
-![Bidyut Innovation Logo](Untitled-2.png)
+![Bidyut Innovation Logo](./Untitled-2.png)
 
 ## **🚀 Innovate, Inspire, Ignite – With Bidyut Innovation!**  
 
