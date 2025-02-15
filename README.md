@@ -16,6 +16,3 @@ Empowering young minds through innovation, technology, and hands-on learning in 
 - 📍 **Location:** Indore, India
 
 
-```package
-sensors=github:it5meyash/gigo-block
-```
