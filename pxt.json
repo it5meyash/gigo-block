@@ -1,5 +1,5 @@
 {
-    "name": "bidyutinnovation",
+    "name": "Bidyutinnovation",
     "version": "0.0.3",
     "description": "Blocks provided by Bidyut Innovation.",
     "license": "MIT",
@@ -9,12 +9,12 @@
     "files": [
         "README.md",
         "main.ts",
-         "_locales/zh-cn/sensors-strings.json",
+        "_locales/zh-cn/sensors-strings.json",
         "_locales/zh-tw/sensors-strings.json",
         "_locales/el/sensors-strings.json"
     ],
     "public": true,
-    "icon": "Untitled-2.png",
+    "logo": "Untitled-2.png",
     "about": "Bidyut Innovation Pvt Ltd is a leading technology-driven company providing superior-quality robotic components, certified for child safety. We offer tailor-made solutions aligned with school curricula, ensuring practical learning experiences.",
     "mission": "Empowering young minds through innovation, technology, and hands-on learning in robotics and AI.",
     "contact": {
