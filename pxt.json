@@ -1,7 +1,7 @@
 {
-    "name": "sensors",
+    "name": "bidyutinnovation",
     "version": "0.0.3",
-    "description": "智高提供的積木方塊。Blocks provided by Gigo。",
+    "description": "Blocks provided by Bidyut Innovation.",
     "license": "MIT",
     "dependencies": {
         "core": "*"
