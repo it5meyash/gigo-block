@@ -13,5 +13,13 @@
         "_locales/zh-tw/sensors-strings.json",
         "_locales/el/sensors-strings.json"
     ],
-    "public": true
+    "public": true,
+    "logo": "Untitled-2.png",
+    "about": "Bidyut Innovation Pvt Ltd is a leading technology-driven company providing superior-quality robotic components, certified for child safety. We offer tailor-made solutions aligned with school curricula, ensuring practical learning experiences.",
+    "mission": "Empowering young minds through innovation, technology, and hands-on learning in robotics and AI.",
+    "contact": {
+        "website": "www.bidyutinnovation.com",
+        "email": "contact@bidyutrobotics.com",
+        "location": "Indore, India"
+    }
 }
